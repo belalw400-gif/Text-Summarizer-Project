@@ -1,1 +1,2 @@
 from textSummarizer.components.data_ingestion import DataIngestion  
+from textSummarizer.components.data_validation import DataValidation
