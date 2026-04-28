@@ -1,0 +1,1 @@
+from textSummarizer.components.data_ingestion import DataIngestion  
