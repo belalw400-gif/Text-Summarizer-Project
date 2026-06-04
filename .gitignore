@@ -217,3 +217,15 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 artifacts/*
+
+
+# تجاهل مجلدات الموديل والتوكينايزر
+**/model/
+**/tokenizer/
+*.bin
+*.pkl
+*.h5
+*.onnx
+artifacts/model_trainer/
+pegasus-samsum-model/
+*.safetensors
